@@ -1,6 +1,6 @@
 setuptools
 wheel
-Kekik
+kekik==0.1.2 
 httpx
 parsel
 fastapi
