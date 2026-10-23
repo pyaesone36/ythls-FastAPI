@@ -1,6 +1,6 @@
 setuptools
 wheel
-git+https://github.com/keyiflerolsun/kekik.git
+kekik==0.1.2
 httpx
 parsel
 fastapi
